@@ -1,5 +1,10 @@
 export const name = "3D";
 
+/** @type {import("../..").Gatekeep} */
+export const gatekeep = async () => {
+	return { able: true };
+};
+
 /** @typedef {{}} Options */
 
 /** @type {import("../..").AdderOptions<Options>} */
