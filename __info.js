@@ -1,5 +1,9 @@
 export const name = "3D";
 
+export const emoji = "🥉";
+
+export const usageMarkdown = ["You can set up 3D scenes with [Svelte Cubed](https://svelte-cubed.vercel.app/) in `.svelte` files."];
+
 /** @type {import("../..").Gatekeep} */
 export const gatekeep = async () => {
 	return { able: true };

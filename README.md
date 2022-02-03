@@ -1,4 +1,4 @@
-<h1 align="center">🥉 Add 3D scenes to Svelte</h1>
+<h1 align="center">🥉 Add 3D to Svelte</h1>
 
 This is an adder for `svelte-add`; you should [read its `README`](https://github.com/svelte-add/svelte-add#readme) before continuing here.
 
