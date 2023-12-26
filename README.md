@@ -1,5 +1,7 @@
 <h1 align="center">🥉 Add 3D to Svelte</h1>
 
+> IMPORTANT: [svelte-cubed](https://github.com/rich-harris/svelte-cubed) is not beeing updated anymore. Thus, support has been dropped.
+
 [![GitHub issues by-label](https://img.shields.io/github/issues/svelte-add/svelte-add/confirmed%20bug?color=%23DC2626)](https://github.com/svelte-add/svelte-add/issues?q=is%3Aopen+is%3Aissue+label%3A%22confirmed+bug%22)
 [![GitHub issues by-label](https://img.shields.io/github/issues/svelte-add/svelte-add/support%20question?color=%23FACC15)](https://github.com/svelte-add/svelte-add/issues?q=is%3Aopen+is%3Aissue+label%3A%22support+question%22)
 
